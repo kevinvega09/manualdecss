@@ -4,5 +4,6 @@
 - [Sintaxis]
 - [Declaraciones]
 
-[¿Que es CSS?]: <empecemos/que-es-css>
-[Sintaxis]: <empecemos/sintaxis>
+[¿Que es CSS?]: </que-es-css.md>
+[Sintaxis]: </sintaxis.md>
+[Declaraciones]: </declaraciones.md>
