@@ -12,4 +12,4 @@ Presentar un documento a un usuario significa convertirlo en un formulario que e
 
 **[Sintaxis]**
 
-[Sintaxis]: <empecemos/sintaxis.md>
+[Sintaxis]: <sintaxis.md>
