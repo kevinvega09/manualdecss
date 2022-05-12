@@ -10,6 +10,6 @@ Presentar un documento a un usuario significa convertirlo en un formulario que e
 
 > Ahora que ya sabes que es CSS, vamos a ver en él siguiente módulo, cómo escribir CSS, la sintaxis de CSS.
 
-** [Sintaxis] **
+**[Sintaxis]**
 
-[Sintaxis]: </sintaxis.md>
+[Sintaxis]: <empecemos/sintaxis.md>
